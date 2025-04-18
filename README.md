@@ -32,11 +32,25 @@ Second Brain is a full-stack web application that allows users to organize, stor
 
 ## 📸 Screenshots
 
-![Add Content Modal](./assets/signin&uppage.png)
-![Dashboard View](./assets/dashboard.png)
-![Add Content Modal](./assets/addContent.png)
-![Add Content Modal](./assets/deleteContent.png)
+<p align="center">
+  <strong>🔐 Signin / Signup Page</strong><br/>
+  <img src="./assets/signin&upPage.png" alt="Signin page" width="600"/>
+</p>
 
+<p align="center">
+  <strong>📊 Dashboard View</strong><br/>
+  <img src="./assets/dashboard.png" alt="Dashboard" width="600"/>
+</p>
+
+<p align="center">
+  <strong>➕ Add Content Modal</strong><br/>
+  <img src="./assets/addContent.png" alt="Add Content" width="600"/>
+</p>
+
+<p align="center">
+  <strong>❌ Delete Content Modal</strong><br/>
+  <img src="./assets/deleteContent.png" alt="Delete Content" width="600"/>
+</p>
 ---
 
 ## 🛠️ Getting Started
